@@ -1,3 +1,6 @@
+#enable the console
+#echo -e 'password\npassword\n' | passwd root
+
 import __future__
 import os
 import sys
